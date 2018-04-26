@@ -1,18 +1,20 @@
 # SYLLABUS
 
+## Overview
+
 ![Overview](https://img1.wsimg.com/isteam/ip/bfe125fa-baa0-47fc-8d01-07bbeeea22e2/b0817bc2-35ca-4e68-9f7a-aaf293c764b2.png)
 
 ## WEEK 0
 
 #### Self-Study
 
-* <a href="https://www.youtube.com/watch?v=y62zj9ozPOM/" target="_blank">**Harvard CS50 Lecture 0**</a>
+* [Harvard CS50 - Lecture 0](https://www.youtube.com/watch?v=y62zj9ozPOM/)
 
 ## WEEK 1
 
 #### Workshop
 
-* <a href="https://github.com/newcoding-bootcamp/1-Create-your-Github-portfolio-page" target="_blank">**Create your Github portfolio page using a text editor**  Trevor Dorsey</a>
+* [**Create your Github portfolio page using a text editor**](https://github.com/newcoding-bootcamp/1-Create-your-Github-portfolio-page) - Trevor Dorsey
 
 #### Self-Study
 
