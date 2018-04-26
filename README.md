@@ -8,6 +8,8 @@
 
 #### Self-Study
 
+Level up your knowledge with some computer science fundamentals:
+
 * [Harvard CS50 - Lecture 0](https://www.youtube.com/watch?v=y62zj9ozPOM/)
 
 ## WEEK 1
