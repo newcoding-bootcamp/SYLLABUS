@@ -1,9 +1,9 @@
-## SYLLABUS
+# SYLLABUS
 
-# WEEK 0
+## WEEK 0
 xxx
 
-# WEEK 1
+## WEEK 1
 xxx
 
 # Self-Study Online Tutorials 
