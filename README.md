@@ -6,11 +6,25 @@
 
 ## WEEK 1
 
-* Create your Github portfolio page using a text editor - Trevor Dorsey
+* <a href="https://github.com/newcoding-bootcamp/1-Create-your-Github-portfolio-page" target="_blank">Create your Github portfolio page using a text editor - Trevor Dorsey</a>
 
-  * https://github.com/newcoding-bootcamp/1-Create-your-Github-portfolio-page
+## WEEK 2
+
+* Make Art with JavaScript - Ian Nicholson
+
+  * https://github.com/newcoding-bootcamp/2-Make-art-with-JavaScript
+
+## WEEK 3
+
+* Develop-a-game-with-JavaScript Dave Larsen
+
+  * https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript
+
+
+
 
 # Self-Study Online Tutorials 
-xxx
+
+* https://github.com/newcoding-bootcamp/Self-Study-Online-Tutorials
 
 
