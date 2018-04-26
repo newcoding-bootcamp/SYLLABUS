@@ -18,7 +18,11 @@
 
 #### Self-Study
 
-You will need to create a Codecademy account (free) for these tutorials:
+For these tutorials, create a Codecademy account (free) by using the "Sign up with GitHub":
+
+![](https://github.com/newcoding-bootcamp/SYLLABUS/blob/master/codecademy-create-account.png)
+
+You're leveraging your GitHub account now, awesome!
 
 * [Learn HTML | Codecademy](https://www.codecademy.com/learn/learn-html)
 * [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
