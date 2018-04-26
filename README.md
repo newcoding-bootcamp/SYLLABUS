@@ -14,7 +14,7 @@
 
 ### WEEK 3
 
-* <a href="hhttps://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript" target="_blank">Develop-a-game-with-JavaScript Dave Larsen</a>
+* <a href="https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript" target="_blank">Develop-a-game-with-JavaScript - Dave Larsen</a>
 
 # Self-Study Online Tutorials 
 
