@@ -16,8 +16,22 @@
 
 * <a href="https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript" target="_blank">Develop-a-game-with-JavaScript - Dave Larsen</a>
 
-# Self-Study Online Tutorials 
+### WEEK 4
 
-* https://github.com/newcoding-bootcamp/Self-Study-Online-Tutorials
+* 
+
+### WEEK 5
+
+* 
+
+### WEEK 6
+
+* 
+
+### WEEK 7
+
+* 
+
+## <a href="https://github.com/newcoding-bootcamp/Self-Study-Online-Tutorials" target="_blank">Self-Study Online Tutorials</a>Self-Study Online Tutorials
 
 
