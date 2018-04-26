@@ -18,16 +18,18 @@
 
 #### Self-Study
 
-For these tutorials, create a Codecademy account (free) by using the "Sign up with GitHub":
+For these tutorials, create a Codecademy account (free) by using the "Sign up with GitHub".
 
 ![](https://github.com/newcoding-bootcamp/SYLLABUS/blob/master/codecademy-create-account.png)
 
 You're leveraging your GitHub account now, awesome!
 
-* [Learn HTML | Codecademy](https://www.codecademy.com/learn/learn-html)
-* [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
-* [Make a Website | Codecademy](https://www.codecademy.com/learn/make-a-website)
-* [Introduction to JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+Do the following in order (they build on each other):
+
+1. [Learn HTML | Codecademy](https://www.codecademy.com/learn/learn-html)
+2. [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
+3. [Make a Website | Codecademy](https://www.codecademy.com/learn/make-a-website)
+4. [Introduction to JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
 Learn more about your text editor, VS Code
 
