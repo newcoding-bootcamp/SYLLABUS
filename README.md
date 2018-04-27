@@ -52,6 +52,13 @@ Learn more about your text editor, VS Code
 
 #### Pair Programming Activity
 
+Matching Students
+
+1. I know what a variable is (before today)
+1. I've used a (software) library
+2. I've written a function before today
+3. I've used a computer operating system other than macOS or Windows
+
 Make an Animation
 
 1. Standards TBD
