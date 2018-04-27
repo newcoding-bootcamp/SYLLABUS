@@ -39,9 +39,26 @@ Learn more about your text editor, VS Code
 
 ## WEEK 2
 
-#### Workshop
+### Workshop
 
 * <a href="https://github.com/newcoding-bootcamp/2-Make-art-with-JavaScript" target="_blank">**Make Art with JavaScript**  Ian Nicholson</a>
+
+#### Learning Objectives
+
+1. Understand what a variable is
+2. Write a function
+3. Understand what a library is
+4. Use functions in library
+
+#### Pair Programming Activity
+
+Make an Animation
+
+1. Standards TBD
+
+### Self-Study Tutorials
+
+* TBD
 
 ## WEEK 3
 
