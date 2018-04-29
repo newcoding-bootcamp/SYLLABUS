@@ -43,9 +43,15 @@ Learn more about your text editor, VS Code
 
 * <a href="https://github.com/newcoding-bootcamp/2-Make-art-with-JavaScript" target="_blank">**Make Art with JavaScript**  Ian Nicholson</a>
 
+1. Workshop - JavaScript
+2. Workshop - P5 Library
+3. Pair Programming - Animation Project with P5
+
 #### Learning Objectives
 
 1. Understand what a variable is
+2. Use a template literal
+3. Use a for loop
 2. Write a function
 3. Understand what a library is
 4. Use functions in library
