@@ -46,6 +46,8 @@ Learn more about your text editor, VS Code
 #### Learning Objectives
 
 1. Understand what a variable is
+2. Understand what a string is
+3. Understand what a code comment is
 2. Write a function
 3. Understand what a library is
 4. Use functions in library
