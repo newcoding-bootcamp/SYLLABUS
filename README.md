@@ -68,6 +68,19 @@ Make an Animation
 
 * <a href="https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript" target="_blank">**Develop-a-game-with-JavaScript**  Dave Larsen</a>
 
+### Workshop Follow-On
+
+Instructor David Larsen has put together instructions for building upon your game. Find them in the repo [here](https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript/blob/master/next-steps.md).
+
+### Self-Study Tutorials
+
+1. [Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/learn/react-101)
+1. [Learn ReactJS: Part II | Codecademy](https://www.codecademy.com/learn/react-102)
+
+Optional
+
+1. [Learn Git | Codecademy](https://www.codecademy.com/learn/learn-git)
+
 ## WEEK 4
 
 #### Workshop
