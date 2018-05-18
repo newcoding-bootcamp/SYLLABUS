@@ -68,11 +68,11 @@ Make an Animation
 
 * <a href="https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript" target="_blank">**Develop-a-game-with-JavaScript**  Dave Larsen</a>
 
-### Workshop Follow-On
+#### Workshop Follow-On
 
 Instructor David Larsen has put together instructions for building upon your game. Find them in the repo [here](https://github.com/newcoding-bootcamp/3-Develop-a-game-with-JavaScript/blob/master/next-steps.md).
 
-### Self-Study Tutorials
+#### Self-Study Tutorials
 
 1. [Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/learn/react-101)
 1. [Learn ReactJS: Part II | Codecademy](https://www.codecademy.com/learn/react-102)
@@ -85,7 +85,19 @@ Optional
 
 #### Workshop
 
-* <a href="https://github.com/newcoding-bootcamp/4-Make-a-mobile-app-with-React-Native" target="_blank">**Make-a-mobile-app-with-React-Native**  Marcus Bernales</a>
+* [**Make-a-mobile-app-with-React-Native**](https://github.com/mboperator/react-native-workshop)  - Marcus Bernales
+
+#### Workshop Follow-On
+
+Add a feature to your magic eight ball app:
+
+1. Display a new random quote when you shake the phone
+2. Use a Dad Joke API to get JSON back with random jokes - https://icanhazdadjoke.com/api
+
+#### Self-Study Tutorials
+
+1. [Learn SQL | Codecademy](https://www.codecademy.com/learn/learn-sql)
+1. [Learn Node SQLite | Codecademy](https://www.codecademy.com/learn/learn-node-sqlite)
 
 ## WEEK 5
 
