@@ -89,7 +89,7 @@ Optional
 
 #### Workshop Follow-On
 
-Add a feature to your magic eight ball app:
+Add a feature to your magic eight ball app. Ideas:
 
 1. Display a new random quote when you shake the phone
 2. Use a Dad Joke API to get JSON back with random jokes - https://icanhazdadjoke.com/api
