@@ -19,3 +19,5 @@ We need access to [npm](https://www.npmjs.com/) (blocked by firewall I think) so
 1. www.reddit.com/r/learnprogramming
 1. www.reddit.com/r/programmerhumor
 1. www.hackthissite.org - ethical hacking for cybersecurity
+1. developer.mozilla.org - HTML, CSS, and JS reference material
+1. stackoverflow.com - answers to most basic development questions
